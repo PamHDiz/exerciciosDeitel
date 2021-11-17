@@ -49,13 +49,12 @@ public class Craps {
 					statusJogo = Status.PERDEU;
 				}
 			}
-			
-			if(statusJogo == Status.GANHOU) {
-				System.out.println("Você ganhou!");
-			} else {
-				System.out.println("Você perdeu!");
-			}
-			
+		}
+		
+		if(statusJogo == Status.GANHOU) {
+			System.out.println("Você ganhou!");
+		} else {
+			System.out.println("Você perdeu!");
 		}
 			
 	}
