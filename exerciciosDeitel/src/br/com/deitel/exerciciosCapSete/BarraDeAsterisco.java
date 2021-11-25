@@ -1,4 +1,4 @@
-package br.com.deitel.exercicios;
+package br.com.deitel.exerciciosCapSete;
 
 public class BarraDeAsterisco {
 

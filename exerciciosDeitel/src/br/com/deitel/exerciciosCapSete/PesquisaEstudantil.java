@@ -1,4 +1,4 @@
-package br.com.deitel.exercicios;
+package br.com.deitel.exerciciosCapSete;
 
 /*Cap. 7 exercício sobre pesquisa hipotética sobre qualidade da alimentação em refeitórios
  da escola com notas entre 1 e 5 com uma resposta fora do Range para gerar Exceção.
